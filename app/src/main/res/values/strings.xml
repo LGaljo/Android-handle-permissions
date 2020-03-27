@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppPermissions</string>
+    <string name="permission_unknown">PERMISSION UNKNOWN</string>
+    <string name="permission_granted">PERMISSION GRANTED</string>
+    <string name="permissions_ask">ASKING FOR PERMISSION</string>
+    <string name="permission_permanent_denial">SELECTED DON\'T ASK AGAIN</string>
+    <string name="permissions_denied">PERMISSION DENIED</string>
+</resources>
